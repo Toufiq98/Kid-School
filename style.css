@@ -47,3 +47,42 @@
     border: none;
     border-radius: 12px;
   }
+
+  .nav-h3{
+    font-size: 56px;
+    font-weight: 700;
+  }
+  p{
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .enroll{
+    padding: 10px 10px;
+    background-color: black;
+    color: white ;
+    border-radius: 12px;
+  }
+  .banner{
+    margin-left: 140px;
+    margin-right:140px ;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .banner-description{
+    margin-top: 120px;
+    margin-bottom: 140px;
+    height: 330px;
+    width: 640px;
+  }
+
+  .main-bg{
+    background-image: url(assets/bg.png);
+  }
+ h5{
+  font-size: 16px;
+  font-weight: 700;
+ }
+ card > p{
+  font-size: 16px;
+  font-weight: 400;
+ }
