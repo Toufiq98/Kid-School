@@ -126,6 +126,8 @@
   border-radius: 16px;
   margin-bottom: 190px;
   margin-left: 50px;
+  position: relative;
+  top: -2rem;
 }
 
 .view{
@@ -176,4 +178,12 @@ nav ul li a {
 
 .social{
   display: flex;
+  
+}
+.hide{
+  display: none;
+}
+
+.menu{
+  <i class="fa-solid fa-bars"></i>
 }
